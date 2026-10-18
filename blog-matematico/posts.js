@@ -12,5 +12,12 @@ const publicaciones = [
     archivo: "entradas/entrada_demo.js",
     fecha: "2026-10-13",
     resumen: "Productos notables y sus algoritmos de resolución."
+  },
+  {
+    id: "03pn",
+    titulo: "Factorización I",
+    archivo: "entradas/entrada_demo2.js",
+    fecha: "2026-10-17",
+    resumen: "Factorización de binomios y trinomios, y sus algoritmos de resolución."
   }
 ];
