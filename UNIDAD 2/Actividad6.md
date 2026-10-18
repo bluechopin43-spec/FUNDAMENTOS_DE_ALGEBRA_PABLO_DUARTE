@@ -4,7 +4,7 @@ Grupo 1A - Fundamentos de Álgebra
 **Factoriza los siguientes polinomios a su mínima expresión:**
 
 $33)5n^3 + 31n^2 - 28n = n(5n^2 + 31n - 28) = n(5n-4)(n+7)$  
-$34)42n^2 + 180n + 162 = 6(7n^2 + 30n + 27) = 6(n+9)(n+3)$  
+$34)42n^2 + 180n + 162 = 6(7n^2 + 30n + 27) = 6(7n+9)(n+3)$  
 $35)28k^2 - 260k + 288 = 4(7k^2 - 65k + 72) = 4(7k-9)(k-8)$  
 $36)5n^2 + 16n + 12 = (5n + 6)(n + 2)$  
 $37)7p^2 - 31p + 30 = (7p - 10)(p - 3)$  
