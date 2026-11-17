@@ -26,5 +26,19 @@ const publicaciones = [
     archivo: "entradas/entrada_demo3.js",
     fecha: "2026-10-22",
     resumen: "Factorización de binomios y trinomios, y sus algoritmos de resolución."
+  },
+  {
+    id: "05pn",
+    titulo: "Ecuaciones de Primer Grado",
+    archivo: "entradas/entrada_demo4.js",
+    fecha: "2026-10-29",
+    resumen: "Resolución de ecuaciones lineales."
+  },
+  {
+    id: "06pn",
+    titulo: "Entrada Graficador",
+    archivo: "entradas/entrada_graficador.js",
+    fecha: "2026-11-17",
+    resumen: "Graficador."
   }
 ];
