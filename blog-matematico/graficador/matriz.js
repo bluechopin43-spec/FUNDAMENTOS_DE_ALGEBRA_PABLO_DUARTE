@@ -122,7 +122,14 @@ function multiplicar(A, B) {
 /** Determinante de una matriz 2 × 2:  ad − bc */
 function det2(T) {
   // TODO Workshop 2
-  pendiente('det2', 'Workshop 2');
+  //pendiente('det2', 'Workshop 2');
+  const a = T[0][0];
+  const b = T[0][1];
+  const c = T[1][0];
+  const d = T[1][1];
+
+  const determinante = a * d - b * c
+  return determinante
 }
 
 /**
@@ -149,7 +156,14 @@ function transformar(x, y, T) {
  */
 function determinante(A) {
   // TODO Workshop 2
-  pendiente('determinante', 'Workshop 2');
+  //pendiente('determinante', 'Workshop 2');
+  const [filas, columnas] = orden(A);
+  if (filas == 2 && columnas == 2) {
+    const determinante = det2(A);
+    return determinante;
+  } else {
+  pendiente('determinante', 'workshop 2');
+  }
 }
 
 
