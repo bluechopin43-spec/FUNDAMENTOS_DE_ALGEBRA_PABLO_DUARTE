@@ -94,10 +94,6 @@ $$\begin{vmatrix} 0 & 12 & 3 \\ 6 & 6 & -4 \\ -7 & -3 & -8 \end{vmatrix}$$
 * **Diagonales secundarias:** $(3)(6)(-7) + (0)(-4)(-3) + (12)(6)(-8) = -126 + 0 - 576 = -702$
 * **Resultado:** $282 - (-702) = \mathbf{984}$
 
----
-
-## Parte 2: Determinantes por el Método de Cofactores (29 - 36)
-
 ### **29)** Expandiendo por la Fila 4 $(4, 0, -1, -3, -7)$:
 $$\det(A) = -4 \begin{vmatrix} 1 & 5 & 8 & -7 \\ 9 & 9 & -3 & -6 \\ 5 & 0 & -10 & -5 \\ 10 & 2 & -10 & -4 \end{vmatrix} - (-1) \begin{vmatrix} -6 & 1 & 8 & -7 \\ 3 & 9 & -3 & -6 \\ 6 & 5 & -10 & -5 \\ 9 & 10 & -10 & -4 \end{vmatrix} + (-3) \begin{vmatrix} -6 & 1 & 5 & -7 \\ 3 & 9 & 9 & -6 \\ 6 & 5 & 0 & -5 \\ 9 & 10 & 2 & -4 \end{vmatrix} - (-7) \begin{vmatrix} -6 & 1 & 5 & 8 \\ 3 & 9 & 9 & -3 \\ 6 & 5 & 0 & -10 \\ 9 & 10 & 2 & -10 \end{vmatrix}$$
 * **Cálculo:** $-4(-980) + 1(3423) - 3(-1035) + 7(-1725) = 3920 + 3423 + 3105 - 12075$
